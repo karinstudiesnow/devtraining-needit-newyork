@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.NeedIt Users</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>NeedIt Users</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:35:45</sys_created_on>
+        <sys_id>a84d607adbdc00102b7ff36f2996190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Users</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_a84d607adbdc00102b7ff36f2996190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:35:45</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a771f649dbe6d7c07d8cf22ebf9619c3</instance_id>
+        <instance_name>dev60742</instance_name>
+        <name>sys_user_role_a84d607adbdc00102b7ff36f2996190e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.NeedIt Users</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>NeedIt Users</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-08 13:35:45</sys_created_on><sys_id>a84d607adbdc00102b7ff36f2996190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.NeedIt Users</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_a84d607adbdc00102b7ff36f2996190e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-08 13:35:45</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>2120669420</payload_hash>
+        <record_name>x_58872_needit.NeedIt Users</record_name>
+        <reverted_from/>
+        <source>a53ff022dbd000102b7ff36f299619ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:35:45</sys_created_on>
+        <sys_id>786d6cb6dbdc00102b7ff36f299619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dab9533a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:35:45</sys_updated_on>
+        <type>Role</type>
+        <update_guid>b06d6cb6ebdc001021e27633f4a495d0</update_guid>
+        <update_guid_history>b06d6cb6ebdc001021e27633f4a495d0:2120669420</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.NeedIt Users">ef8dec7adbdc00102b7ff36f29961927</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:36:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>27f93820bbb3468c8c3d9d89784d8710</sys_id>
+        <sys_metadata>a84d607adbdc00102b7ff36f2996190e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Users</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_a84d607adbdc00102b7ff36f2996190e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a84d607adbdc00102b7ff36f2996190e">786d6cb6dbdc00102b7ff36f299619d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:36:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
